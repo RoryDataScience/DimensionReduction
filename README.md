@@ -1,4 +1,11 @@
 # DimensionReduction
+Data Science Procedures to Reduce the dimensions of data sets
+Methods to treat and deal with categorical data
+
+## Project Title
+Application of Dimension Reduction Algorithms and Treatment of Categorical Variables 
+
+## Motivation
 **Exploratory Data Analysis**
 - Columns in train and not in test dataset
 - Missing Value Analytics (msno package)
@@ -38,3 +45,68 @@ Feature hashing is a technique that can be used to deal with categories with a l
 
 **Categorical Data Feature Selection**
 - selectKBest and chi squared with ordinal and label encoding
+
+## What are the types of Dimension Resuction?
+- Linear Dimension Reduction (Cohort One):
+  - Missing Value Ratio
+  - Low Variance Filter
+  - High Correlation Filter
+  - PCA
+  - Factor Analysis
+  - Multiple Correspondence Analysis
+
+- Linear Dimension Reduction (Cohort Two TBD):
+  - BPDR
+  - LDA (and applied to K-Means)
+  - ICA
+  - NNMF
+
+- Other PCA Methods
+  - Extended PCA
+  - Incremental PCA 
+  - Randomised PCA 
+  - Kernal PCA
+  - Probabilistic PCA
+  - PCA Regression
+
+- Non-Linear Dimension Reduction: 
+  - LLE
+  - t-SNE
+  - UMAP
+  - IsoMap
+  - MDS
+
+Categorical Data Feature Selection
+- Treatment of ordinal/nominal features
+- SelectbestK
+- Chiq Squared Test Statistics
+- Feature Importance determination
+
+
+## Build Status
+Project in Development - Further Dimension Reduction Methods should be picked up from Cohort Two 
+
+## Getting Started
+Python version: 3.6.5
+Notebooks: 20210215_DimensionReductionProject
+
+Additional Notes:
+There is a quick methods to save requirements from the notebook by running pip3 freeze > requirements.txt once the project has been completed
+
+### Installing
+cd Documents/GitHub/DimensionReduction/
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+
+### Running the tests
+Not implemented
+
+**Break down into end to end tests** 
+## Deployment
+Not implemented
+
+## Screenshots
+Not implemented
+
+## Versioning
+Not implemented
