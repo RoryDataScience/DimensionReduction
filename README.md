@@ -46,7 +46,7 @@ Feature hashing is a technique that can be used to deal with categories with a l
 **Categorical Data Feature Selection**
 - selectKBest and chi squared with ordinal and label encoding
 
-## What are the types of Dimension Resuction?
+## What are the types of Dimension Reduction?
 - Linear Dimension Reduction (Cohort One):
   - Missing Value Ratio
   - Low Variance Filter
@@ -76,7 +76,7 @@ Feature hashing is a technique that can be used to deal with categories with a l
   - IsoMap
   - MDS
 
-Categorical Data Feature Selection
+## Categorical Data Feature Selection
 - Treatment of ordinal/nominal features
 - SelectbestK
 - Chiq Squared Test Statistics
