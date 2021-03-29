@@ -5,7 +5,7 @@ Methods to treat and deal with categorical data
 ## Project Title
 Application of Dimension Reduction Algorithms and Treatment of Categorical Variables 
 
-## Motivation
+## Motivation & Project Scope
 **Exploratory Data Analysis**
 - Columns in train and not in test dataset
 - Missing Value Analytics (msno package)
