@@ -26,7 +26,7 @@ Feature hashing is a technique that can be used to deal with categories with a l
 - The ‘boxenplot’, an expansion of the boxplot, seeks to address the problems of boxplots by adding more quantiles
 - Clustered heatmaps are often used for correlation matrices (correlations between every combination of two features), but can be used for really any matrix, as long as its elements are on the same scale.
 
-**Dimension Reduction**
+**Dimension Reduction & Evaluation Techniques**
 - Missing Value Ratio
 - Low Variance Filter 
 - Correlation (High) Filter for Nominal and Ordinal Data inc. statistical significance 
