@@ -89,6 +89,8 @@ Project in Development - Further Dimension Reduction Methods should be picked up
 ## Getting Started
 Python version: 3.6.5
 Notebooks: 20210215_DimensionReductionProject
+Branch: 20210215_DimensionReduction
+Last Commit: Completion of Dimension Reduction Project e5aeeae0a3c79dbd8940b06bc8247240215f2340 
 
 Additional Notes:
 There is a quick methods to save requirements from the notebook by running pip3 freeze > requirements.txt once the project has been completed
