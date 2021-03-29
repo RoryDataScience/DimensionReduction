@@ -1,10 +1,9 @@
 # DimensionReduction
-Colorama – Change the font colour in Jupyter notebook
-
-**Exploratory Data Analysis*
+**Exploratory Data Analysis**
 - Columns in train and not in test dataset
 - Missing Value Analytics (msno package)
   - As we can see from the variables with missing values, it is a good idea to keep the missing values as a separate category value, instead of replacing them by the mode for instance.
+- Colorama – Change the font colour in Jupyter notebook
 - Assert methods to validate subsetting
  
 **Categorical Data Analysis**
